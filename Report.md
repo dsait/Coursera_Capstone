@@ -32,6 +32,8 @@ It leverages three data sources.
 
 ## PARIS Data
 
+<img src="https://opendata.paris.fr/assets/theme_image/header.png"/>
+
 This is the official Open Data website of the city of Paris.
 
 It contains many datasets across many themes.
