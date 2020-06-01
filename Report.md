@@ -163,7 +163,7 @@ All neighborhoods of Cluster 3 (grey) and Cluster 5 (green) are peripheral.
 
 Although I segmented the neighborhoods based solely on the venues category, there is an implicit geographical dimension to it: similar neighborhoods (venue wise) are located next to each other.
 
-This is somehow expected as the West of Paris is generally more affluent than the East.
+This is somehow expected as the West of Paris is generally more wealthy than the East.
 
 Here is an example of housing prices per square meter published by this newspaper [page](https://immobilier.lefigaro.fr/article/a-paris-un-marche-immobilier-a-trois-vitesses-entre-est-ouest-et-centre_2fa31cf0-11e6-11ea-8bf6-37a3558e7c02/) on December 2019:
 
