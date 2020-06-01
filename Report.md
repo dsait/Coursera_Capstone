@@ -5,10 +5,6 @@ There are already a wide range of questions you’re asking yourself, such as in
 
 This decision depends on many factors, like the purpose of your trip, your budget and preferences.
 
-- George Washington
-- John Adams
-- Thomas Jefferson
-
 But in all cases, it would most likely be based on these two variables:
 
 - The number and type of the venues that you deem interesting (like museums, restaurants, etc.) and that are close or easily accessible from the neighborhood where you’re staying, and
@@ -41,23 +37,23 @@ This is the official Open Data website of the city of Paris.
 
 It contains many datasets across many themes.
 
-The project uses the neighborhood’s one from the urbanism section.
+The project uses the [neighborhood's](https://opendata.paris.fr/explore/dataset/quartier_paris/information/) one from the urbanism section.
 
-This is the link to the dataset and the link to the metadata.
+This is the [link](https://opendata.paris.fr/explore/dataset/quartier_paris/download/?format=csv&timezone=Europe/Berlin&lang=fr&use_labels_for_header=true&csv_separator=%3B) to the dataset and the [link](https://opendata.paris.fr/api/datasets/1.0/quartier_paris/attachments/quartier_pdf/) to the metadata.
 
 I keep only the attributes that are relevant for the analysis, which after wrangling look like this:
 
 The first three columns are self-explanatory, the fourth contains the geographical coordinates of the polygon representing the area of the neighborhood.
 
-Paris has 20 boroughs (Arrondissements) and 80 neighborhoods (Quartiers). Each Arrondissement has 4 Quartiers.
+Paris has 20 boroughs ([Arrondissements](https://en.wikipedia.org/wiki/Arrondissements_of_Paris)) and 80 neighborhoods ([Quartiers](https://en.wikipedia.org/wiki/Quarters_of_Paris)). Each Arrondissement has 4 Quartiers.
 
 ## Airbnb
 
 <img height="128" with="128" src="https://news.airbnb.com/wp-content/uploads/sites/4/2017/01/airbnb_vertical_lockup_web.png"/>
 
-All Airbnb accommodation listings in Paris.
+All Airbnb accommodation listings in [Paris](http://insideairbnb.com/get-the-data.html).
 
-This is the link to the dataset.
+This is the [link](http://data.insideairbnb.com/france/ile-de-france/paris/2020-04-15/visualisations/listings.csv) to the dataset.
 
 It has nearly 60K records.
 
@@ -73,7 +69,7 @@ Every row represents an accommodation, and it contains information about the nei
 
 I use the /venues/explore/ endpoint of the Foursquare API to get a list of recommended venues in the vicinity of a specific neighborhood.
 
-The details of the request and response attributes of this endpoint can be found in this official documentation page.
+The details of the request and response attributes of this endpoint can be found in this official documentation [page](https://developer.foursquare.com/docs/api-reference/venues/explore/).
 
 After cleaning, the data looks like this:
 
