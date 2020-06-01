@@ -43,6 +43,8 @@ This is the [link](https://opendata.paris.fr/explore/dataset/quartier_paris/down
 
 I keep only the attributes that are relevant for the analysis, which after wrangling look like this:
 
+<img src="https://github.com/dsait/Coursera_Capstone/blob/master/paris-neighborhoods-df.png"/>
+
 The first three columns are self-explanatory, the fourth contains the geographical coordinates of the polygon representing the area of the neighborhood.
 
 Paris has 20 boroughs ([Arrondissements](https://en.wikipedia.org/wiki/Arrondissements_of_Paris)) and 80 neighborhoods ([Quartiers](https://en.wikipedia.org/wiki/Quarters_of_Paris)). Each Arrondissement has 4 Quartiers.
@@ -61,6 +63,8 @@ The columns are evident but I keep only those that are relevant for the analysis
 
 Here is how it looks like after cleaning:
 
+<img src="https://github.com/dsait/Coursera_Capstone/blob/master/paris-listings-df.png"/>
+
 Every row represents an accommodation, and it contains information about the neighborhood where it is located, its geographical coordinates, type, price and the number of reviews it got.
 
 ## Foursquare
@@ -72,6 +76,8 @@ I use the /venues/explore/ endpoint of the Foursquare API to get a list of recom
 The details of the request and response attributes of this endpoint can be found in this official documentation [page](https://developer.foursquare.com/docs/api-reference/venues/explore/).
 
 After cleaning, the data looks like this:
+
+<img src="https://github.com/dsait/Coursera_Capstone/blob/master/paris-venues-df.png"/>
 
 Every row gives the name of the venue, its geographical coordinates, name, type and the neighborhood where it is located.
 
