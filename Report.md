@@ -22,7 +22,7 @@ This time, you want to stay in a new neighborhood, since you like novelty.
 
 But still, you also want the new neighborhood to be similar and not too different from the previous one, because you already had a lot of fun there last time.
 
-This project attempts to find answers to these questions, that every visitor to Paris is or should be asking themselves to make the most of their trip, and here is how it will be done.
+This project attempts to find answers to these questions, that every visitor to Paris is or should be asking themselves to make the most out of their trip, and here is how it will be done.
 
 # Data
 The answer will be data-driven.
