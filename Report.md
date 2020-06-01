@@ -5,11 +5,14 @@ There are already a wide range of questions you’re asking yourself, such as in
 
 This decision depends on many factors, like the purpose of your trip, your budget and preferences.
 
+- George Washington
+- John Adams
+- Thomas Jefferson
+
 But in all cases, it would most likely be based on these two variables:
 
-The number and type of the venues that you deem interesting (like museums, restaurants, etc.) and that are close or easily accessible from the neighborhood where you’re staying, and
-
-The price of the accommodation, especially if you’re on limited budget, given that Paris is definitely not the cheapest city in the world
+- The number and type of the venues that you deem interesting (like museums, restaurants, etc.) and that are close or easily accessible from the neighborhood where you’re staying, and
+- The price of the accommodation, especially if you’re on limited budget, given that Paris is definitely not the cheapest city in the world
 
 One might be wondering for example whether or not popular neighborhoods with trending venues are always located in the center of the city?
 
@@ -50,7 +53,7 @@ Paris has 20 boroughs (Arrondissements) and 80 neighborhoods (Quartiers). Each A
 
 ## Airbnb
 
-<img src="https://news.airbnb.com/wp-content/uploads/sites/4/2017/01/airbnb_vertical_lockup_web.png"/>
+<img height="128" with="128" src="https://news.airbnb.com/wp-content/uploads/sites/4/2017/01/airbnb_vertical_lockup_web.png"/>
 
 All Airbnb accommodation listings in Paris.
 
@@ -66,7 +69,7 @@ Every row represents an accommodation, and it contains information about the nei
 
 ## Foursquare
 
-<img src="https://img.pngio.com/company-entertainment-food-foursquare-nightlife-perfect-foursquare-png-512_512.png"/>
+<img height="128" with="128" src="https://img.pngio.com/company-entertainment-food-foursquare-nightlife-perfect-foursquare-png-512_512.png"/>
 
 I use the /venues/explore/ endpoint of the Foursquare API to get a list of recommended venues in the vicinity of a specific neighborhood.
 
