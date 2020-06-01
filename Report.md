@@ -79,6 +79,6 @@ After cleaning, the data looks like this:
 
 <img src="https://github.com/dsait/Coursera_Capstone/blob/master/paris-venues-df.png"/>
 
-Every row gives the name of the venue, its geographical coordinates, name, type and the neighborhood where it is located.
+Every row gives the name of the venue, its geographical coordinates, category and the neighborhood where it is located.
 
 5066 venues were pulled under 293 unique venue category.
