@@ -50,6 +50,8 @@ Paris has 20 boroughs (Arrondissements) and 80 neighborhoods (Quartiers). Each A
 
 ## Airbnb
 
+<img src="https://news.airbnb.com/wp-content/uploads/sites/4/2017/01/airbnb_vertical_lockup_web.png"/>
+
 All Airbnb accommodation listings in Paris.
 
 This is the link to the dataset.
@@ -63,6 +65,8 @@ Here is how it looks like after cleaning:
 Every row represents an accommodation, and it contains information about the neighborhood where it is located, its geographical coordinates, type, price and the number of reviews it got.
 
 ## Foursquare
+
+<img src="https://img.pngio.com/company-entertainment-food-foursquare-nightlife-perfect-foursquare-png-512_512.png"/>
 
 I use the /venues/explore/ endpoint of the Foursquare API to get a list of recommended venues in the vicinity of a specific neighborhood.
 
